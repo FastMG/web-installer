@@ -1,0 +1,20 @@
+[
+  {
+    "id": "pc-recepcao",
+    "name": "PC Recepção",
+    "ip": "192.168.1.50",
+    "setor": "Recepção"
+  },
+  {
+    "id": "pc-financeiro",
+    "name": "PC Financeiro",
+    "ip": "192.168.1.51",
+    "setor": "Financeiro"
+  },
+  {
+    "id": "pc-diretoria",
+    "name": "PC Diretoria",
+    "ip": "192.168.1.52",
+    "setor": "Diretoria"
+  }
+]
