@@ -1,0 +1,23 @@
+[
+  {
+    "id": "anydesk",
+    "name": "AnyDesk",
+    "description": "Acesso remoto",
+    "installer": "AnyDesk.exe",
+    "args": "--install --start-with-windows --create-shortcuts --silent"
+  },
+  {
+    "id": "chrome",
+    "name": "Google Chrome",
+    "description": "Navegador web",
+    "installer": "ChromeSetup.exe",
+    "args": "/silent /install"
+  },
+  {
+    "id": "acrobat",
+    "name": "Adobe Acrobat Reader",
+    "description": "Leitor de PDF",
+    "installer": "AcroRdrDC.exe",
+    "args": "/sAll /rs /msi EULA_ACCEPT=YES"
+  }
+]
