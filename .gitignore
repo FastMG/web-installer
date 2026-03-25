@@ -1,0 +1,6 @@
+node_modules/
+logs/installs.json
+config/credentials.json
+packages/*.exe
+packages/*.msi
+.env
